@@ -1,0 +1,3 @@
+[submodule "libcpr"]
+	path = libcpr
+	url = git://github.com/okard/cpr.git

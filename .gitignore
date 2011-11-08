@@ -1,0 +1,10 @@
+
+# git ignore
+
+bin/
+build/
+*.bin
+*.so
+
+# doxygen
+doc/libpkto
